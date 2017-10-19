@@ -1,4 +1,4 @@
-# CarND-Path-Planning
+# CarND-Functional Safety
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
 This is the project repository for **Elective Project No. 2 Functional Safety**, part of Term 3 _Path Planning, Concentrations, and Systems_ of Udacity Self-Driving Car Nanodegree program, submitted by Albert Killer in Oktober 2017. 
